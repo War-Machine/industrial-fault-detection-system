@@ -9,6 +9,12 @@ Python based industrial fault detection system for monitoring machine conditions
 
 ---
 
+## Dashboard Preview
+
+![Dashboard](screenshots/fault-dashboard.png)
+
+---
+
 ## Overview
 
 Industrial Fault Detection System is a Python-based project designed to monitor industrial machine parameters and generate fault alerts when abnormal conditions are detected.
