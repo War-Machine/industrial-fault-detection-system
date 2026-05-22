@@ -1,7 +1,8 @@
-# Industrial-fault-detection-system
-Python based industrial fault detection system for monitoring machine conditions and generating real-time fault alerts.
 
 # Industrial Fault Detection System
+
+Python based industrial fault detection system for monitoring machine conditions and generating real-time fault alerts.
+
 
 ![Python](https://img.shields.io/badge/Python-Programming-blue)
 ![Automation](https://img.shields.io/badge/Automation-System-green)
@@ -12,6 +13,14 @@ Python based industrial fault detection system for monitoring machine conditions
 ## Dashboard Preview
 
 ![Dashboard](screenshots/fault-dashboard.png)
+
+---
+
+## Run Locally
+
+bash
+pip install -r requirements.txt
+streamlit run dashboard/main.py
 
 ---
 
